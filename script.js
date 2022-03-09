@@ -5,7 +5,7 @@ var button=document.getElementById("enter");
  function inputLength(){
      return input.value.length;
  }
- document.write('Name ');
+ document.write('');
  function createListElement(){
         var li=document.createElement("ol");
        
